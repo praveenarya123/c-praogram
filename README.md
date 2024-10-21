@@ -1,1 +1,1 @@
-# c-praogram
+# c-program
